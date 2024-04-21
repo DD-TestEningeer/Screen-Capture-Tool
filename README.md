@@ -10,7 +10,7 @@ This is a simple Java application that allows you to capture your screen and sav
 ## Requirements
 - Java Development Kit (JDK) installed on your system.
 
-## How to Use
+## How to Use - Method 1
 1. Clone or download the project to your local machine.
 2. Compile the Java source code using a Java compiler:
     ```
@@ -23,6 +23,14 @@ This is a simple Java application that allows you to capture your screen and sav
 4. Once the application window appears, click the "Capture Screen" button to capture the screen.
 5. The captured screenshot will be saved as "Screenshot.jpg" in the current directory.
 6. The application will automatically open the captured screenshot using the default image viewer on your system.
+
+
+## How to Use - Method 2
+1. Clone or download the project to your local machine.
+2. Run the Run.jar file
+3. Once the application window appears, click the "Capture Screen" button to capture the screen.
+4. The captured screenshot will be saved as "Screenshot.jpg" in the current directory.
+5. The application will automatically open the captured screenshot using the default image viewer on your system.
 
 ## Notes
 - Ensure that you have the necessary permissions to capture the screen.
