@@ -31,5 +31,4 @@ This is a simple Java application that allows you to capture your screen and sav
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
-# Screen-Capture-Tool
-# Screen-Capture-Tool
+
