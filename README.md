@@ -1,4 +1,4 @@
-# Screen Capture Tool
+# Screen Capture Tool1
 
 This is a simple Java application that allows you to capture your screen and save it as an image file. It provides a basic user interface with a button to trigger the screen capture process.
 
